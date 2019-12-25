@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id</Data></Cell>
+			<Cell><Data ss:Type="String">lokasi</Data></Cell>
+			<Cell><Data ss:Type="String">luas</Data></Cell>
+			<Cell><Data ss:Type="String">nama_pengembang</Data></Cell>
+			<Cell><Data ss:Type="String">id_desa</Data></Cell>
+			<Cell><Data ss:Type="String">latlng</Data></Cell>
+			<Cell><Data ss:Type="String">tgl_input</Data></Cell>
+			<Cell><Data ss:Type="String">username</Data></Cell>
+			<Cell><Data ss:Type="String">nama_perumahan</Data></Cell>
+			<Cell><Data ss:Type="String">id_type</Data></Cell>
+			<Cell><Data ss:Type="String">kisaran_harga</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">a9c3512c-c1c7-4237-8bde-69160ba05baf</Data></Cell>
+			<Cell><Data ss:Type="String">gamer</Data></Cell>
+			<Cell><Data ss:Type="String">1000</Data></Cell>
+			<Cell><Data ss:Type="String">pengembang</Data></Cell>
+			<Cell><Data ss:Type="String">33250303</Data></Cell>
+			<Cell><Data ss:Type="String">-6.904148730270004;109.70851577818394</Data></Cell>
+			<Cell><Data ss:Type="String">2019-08-03 09:44:54</Data></Cell>
+			<Cell><Data ss:Type="String">admin</Data></Cell>
+			<Cell><Data ss:Type="String">gaia</Data></Cell>
+			<Cell><Data ss:Type="String">30;45</Data></Cell>
+			<Cell><Data ss:Type="String">Rp. 100.000.000 - Rp. 300.000.000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fee1d1e4-70e0-4858-bca6-28d4aa44ee9c</Data></Cell>
+			<Cell><Data ss:Type="String">asdasdasd</Data></Cell>
+			<Cell><Data ss:Type="String">25</Data></Cell>
+			<Cell><Data ss:Type="String">asdasd</Data></Cell>
+			<Cell><Data ss:Type="String">33250203</Data></Cell>
+			<Cell><Data ss:Type="String">30.540242874935984;-96.89308404922487</Data></Cell>
+			<Cell><Data ss:Type="String">2019-09-30 10:32:58</Data></Cell>
+			<Cell><Data ss:Type="String">admin</Data></Cell>
+			<Cell><Data ss:Type="String">sad</Data></Cell>
+			<Cell><Data ss:Type="String">30;36;45</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

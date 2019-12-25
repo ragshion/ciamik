@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_kecamatan</Data></Cell>
+			<Cell><Data ss:Type="String">nama_kecamatan</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">332501</Data></Cell>
+			<Cell><Data ss:Type="String">Bandar </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332502</Data></Cell>
+			<Cell><Data ss:Type="String">Banyuputih</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332503</Data></Cell>
+			<Cell><Data ss:Type="String">Batang</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332504</Data></Cell>
+			<Cell><Data ss:Type="String">Bawang</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332505</Data></Cell>
+			<Cell><Data ss:Type="String">Blado</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332506</Data></Cell>
+			<Cell><Data ss:Type="String">Gringsing </Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332507</Data></Cell>
+			<Cell><Data ss:Type="String">Kandeman</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332508</Data></Cell>
+			<Cell><Data ss:Type="String">Limpung</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332509</Data></Cell>
+			<Cell><Data ss:Type="String">Pecalungan</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332510</Data></Cell>
+			<Cell><Data ss:Type="String">Reban</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332511</Data></Cell>
+			<Cell><Data ss:Type="String">Subah</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332512</Data></Cell>
+			<Cell><Data ss:Type="String">Tersono</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332513</Data></Cell>
+			<Cell><Data ss:Type="String">Tulis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332514</Data></Cell>
+			<Cell><Data ss:Type="String">Warungasem</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">332515</Data></Cell>
+			<Cell><Data ss:Type="String">Wonotunggal</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
